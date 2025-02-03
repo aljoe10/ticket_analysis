@@ -1,0 +1,1078 @@
+ticket_id,title,submitter,owner,category_(text),approval,comments,resolution,summary,time_opened,time_closed,approver,cc_list,queue_name,ticket_quality
+17419,new properties,Michelle Rayner,Benjamin Garrett,Unclassified,approved,"Hi!
+Please set up three new properties.
+Spanish Ridge 1 – SPAN01
+Spanish Ridge 2 – SPAN02
+Spanish Ridge 3 – SPAN03
+Newly acquired operating properties.
+Thanks!
+Michelle Rayner, CPA
+Vice President and Controller
+EastGroup Properties
+400 W Parkway Place Ste 100
+Ridgeland, MS 39157
+O: 601.354.3555 | F: 601.352.1441
+[www.eastgroup.net](http://www.eastgroup.net/)
+[screenshot_v0o4m0uhw.png.b898398ef461b405653494f7d0ad1d64][screenshot_itrx70xsh.png.96fe72b51d91a2fe716ee08fbc589e7f][screenshot_4lrd5g990.png.0ab69c5d8b8b8104dfa2db4f7aa45968]
+Device ""RDG-W10-MR"" was deleted. We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Properties and departments added to Yardi
+Closed Email Sent","Hi!
+Please set up three new properties.
+Spanish Ridge 1 – SPAN01
+Spanish Ridge 2 – SPAN02
+Spanish Ridge 3 – SPAN03
+Newly acquired operating properties.
+Thanks!
+Michelle Rayner, CPA
+Vice President and Controller
+EastGroup Properties
+400 W Parkway Place Ste 100
+Ridgeland, MS 39157
+O: 601.354.3555 | F: 601.352.1441
+[www.eastgroup.net](http://www.eastgroup.net/)",,1/30/2024 8:34,Brian Laird,"barry.anderson@eastgroup.net, carrie.stewart@eastgroup.net",The K1000 Service Desk,Good
+17446,Request to add printer,Melina Hurst,Micah Rumbaugh,Hardware::Printer,approved,"Hi!  May I please have help adding the tampa printer and my desktop printer to the new laptop?
+Many Thanks!
+Im ready now if you are!
+From: IT <it@eastgroup.net>
+Sent: Monday, January 29, 2024 11:11 AM
+To: Melina Hurst <melina.hurst@eastgroup.net>
+Subject: [TICK:17446] Request to add printer
+Device ""TPA-W10-MH"" was deleted. Hey Melina, I would like to take a look at this for you. Let me know when a good time is to get those printers added.  Remoted in as admin
+Installed printer driver
+Set up printer manually
+Made a test print and it worked properly
+Ticket is good to close We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Remoted in as admin
+Installed printer driver
+Set up printer manually
+Made a test print and it worked properly
+Ticket is good to close Closed Email Sent","Hi!  May I please have help adding the tampa printer and my desktop printer to the new laptop?
+Many Thanks!  ?",,1/30/2024 8:33,Brian Laird,,The K1000 Service Desk,Good
+17416,File error,Stephanie Shaw,Melissa Romig,Unclassified,,"I�m trying to open a file and am getting this error
+[A screenshot of a computer  Description automatically generated]
+Stephanie Shaw, CPA
+Vice President, Development Accounting
+EastGroup Properties
+400 W Parkway Place Ste 100
+Ridgeland, MS 39157
+O: 601.354.3555 | F: 601.352.1441
+[www.eastgroup.net](http://www.eastgroup.net/)
+Called Steph and walked her through how to Free up Space on File explorer for all of her Sync'd folders.
+Steph, let me know when this is completed and if you have any issues.  Device ""RDG-W10-SS"" was deleted. Stephanie reached out and has freed up enough space on her C:\to open files. She will continue to free up space on her remaining sync'd drives.  We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Right Clicked on Sync'd folders in File Explorer and selected Free Up Space.
+Closed Email Sent","I am trying to open a file and am getting this error
+[A screenshot of a computer  Description automatically generated]
+Stephanie Shaw, CPA
+Vice President, Development Accounting
+EastGroup Properties
+400 W Parkway Place Ste 100
+Ridgeland, MS 39157
+O: 601.354.3555 | F: 601.352.1441
+[www.eastgroup.net](http://www.eastgroup.net/)",,1/23/2024 15:26,,,The K1000 Service Desk,Good
+17412,Help with Laptop,Breanna Anderson,Micah Rumbaugh,Hardware::Laptop,approved,"Good Afternoon,
+Every hour and a half or so my laptop stops working. It won't let me type or it'll type text backward, it won't display my email inbox, and it opens a new document icon every time I click on a new folder. I've restarted it several times and I'm still having issues. Please help!
+Best,
+Breanna Anderson
+Assistant Property Manager
+EastGroup Properties
+Greenville, SC 29680
+C: [864.399.3093](tel:8643993093)
+[www.eastgroup.net](http://www.eastgroup.net/)
+Issues are the following:
+- file explorer not loading
+- outlook slowness
+- text typing backwards
+I had her do a hard reset and restart and it works for an hour or two and then comes back  Device ""CHA-W10-BA"" was deleted. Reached out via teams
+Remoted in and not seeing any overheating, high cpu or memory useage, or storage full
+Trying a hard restart to see if that helps Remoted in
+Ran disk cleanup on all options
+Switched to best performance in advanced settings
+Restarted pc and file explorer came back up
+Ticket is good to close We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Remoted in
+Ran disk cleanup on all options
+Switched to best performance in advanced settings
+Restarted pc and file explorer came back up
+Ticket is good to close Closed Email Sent","Good Afternoon,
+Every hour and a half or so my laptop stops working. It won't let me type or it'll type text backward, it won't display my email inbox, and it opens a new document icon every time I click on a new folder. I've restarted it several times and I'm still having issues. Please help!
+Best,
+Breanna Anderson
+Assistant Property Manager
+EastGroup Properties
+Greenville, SC 29680
+C: [864.399.3093](tel:8643993093)
+[www.eastgroup.net](http://www.eastgroup.net/)",,1/23/2024 9:19,Brian Laird,,The K1000 Service Desk,Good
+17387,Report issue,Jennifer Kealhofer,Benjamin Garrett,Yardi::Other,approved,"The .tax1120 and .taxtrs reports doesn't sum to the totals in .all. It has something to do with how the lpsub property is set up. Can you please correct this? Snip below showing the issue.
+[A screenshot of a spreadsheet  Description automatically generated]
+Jen
+Jennifer Kealhofer, CPA
+Senior Tax Accountant
+EastGroup Properties
+400 W Parkway Place Suite 100
+Ridgeland, MS 39157
+O: 601.360.1258 | F: 601.360.1259
+[www.eastgroup.net](http://www.eastgroup.net/)
+lpsub didn't have a DHH grouping assigned to it in its attributes. We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Added the dhh group to lpsub attributes.
+Rebuilt property list. Closed Email Sent","The .tax1120 and .taxtrs reports don�t sum to the totals in .all. It has something to do with how the lpsub property is set up. Can you please correct this? Snip below showing the issue.
+[A screenshot of a spreadsheet  Description automatically generated]
+Jen
+Jennifer Kealhofer, CPA
+Senior Tax Accountant
+EastGroup Properties
+400 W Parkway Place Suite 100
+Ridgeland, MS 39157
+O: 601.360.1258 | F: 601.360.1259
+[www.eastgroup.net](http://www.eastgroup.net/)",,1/18/2024 7:29,Brian Laird,michelle.rayner@eastgroup.net,The K1000 Service Desk,Good
+17374,Teams Audio,Jaclyn Kennedy,Micah Rumbaugh,Microsoft::Teams,approved,"Hi Michah-
+Thanks for helping with my video issues with my Teams on Thursday.  Since then, video works great but audio is no longer working.
+Thanks-
+Jaclyn Kennedy
+Senior Asset Analyst
+EastGroup Properties
+2966 Commerce Park Dr., Ste 450
+Orlando, FL 32819
+O: 407.284.6541 | F: 407.284.6545
+[www.eastgroup.net](http://www.eastgroup.net/)
+Device ""ORL-W10-JK2"" was deleted. Remoted in
+Checked teams audio settings and made sure all inputs matched to Audio 2
+Confirmed audio is working with Jaclyn
+Ticket is good to close We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Remoted in
+Checked teams audio settings and made sure all inputs matched to Audio 2
+Confirmed audio is working with Jaclyn
+Ticket is good to close Closed Email Sent","Hi Michah-
+Thanks for helping with my video issues with my Teams on Thursday.  Since then, video works great but audio is no longer working.
+Thanks-
+Jaclyn Kennedy
+Senior Asset Analyst
+EastGroup Properties
+2966 Commerce Park Dr., Ste 450
+Orlando, FL 32819
+O: 407.284.6541 | F: 407.284.6545
+[www.eastgroup.net](http://www.eastgroup.net/)",,1/16/2024 11:18,Brian Laird,,The K1000 Service Desk,Good
+17347,Outlook Printing Emails & Attachments to PDF,Sandra Litchy,Micah Rumbaugh,Adobe,approved,"Hello,
+I’m having an issue with this again.  Sorry, I forget where I can change the settings to correct this issue.  Every computer or Global Protect update knocks it back to the default setting, grrr.
+Thanks!
+Sandra Litchy
+Senior Property Manager
+EastGroup Properties
+Direct (415) 817-9363
+Cell (510) 206-1522
+Sandra.Litchy@eastgroup.net
+[www.eastgroup.net](http://www.eastgroup.net/)
+Hi Micah,
+I will let you know. Maybe in 30 minutes to an hour.
+Sandra Litchy
+Senior Property Manager
+EastGroup Properties
+Direct (415) 817-9363
+Cell (510) 206-1522
+Sandra.Litchy@eastgroup.net
+[www.eastgroup.ne](http://www.eastgroup.net/)t
+> On Jan 12, 2024, at 5:05 AM, IT <it@eastgroup.net> wrote:
+> ﻿-+-+- Please reply above this line to add a comment -+-+-
+Good morning Sandra, please let me know when a good time to troubleshoot is, thank you.  Remoted in
+Went to printers > adobe pdf > printing preferences > unchecked rely on system fonts only
+Did a test print and it worked properly
+Ticket is good to close We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Remoted in
+Went to printers > adobe pdf > printing preferences > unchecked rely on system fonts only
+Did a test print and it worked properly
+Ticket is good to close Closed Email Sent","Hello,
+I’m having an issue with this again.  Sorry, I forget where I can change the settings to correct this issue.  Every computer or Global Protect update knocks it back to the default setting, grrr.
+Thanks!
+Sandra Litchy
+Senior Property Manager
+EastGroup Properties
+Direct (415) 817-9363
+Cell (510) 206-1522
+Sandra.Litchy@eastgroup.net
+[www.eastgroup.net](http://www.eastgroup.net/)",,01-12-2024 13:38,Brian Laird,,The K1000 Service Desk,Good
+17344,FW: San Antonio Pay Scan,Barry Anderson,Benjamin Garrett,Yardi::Other,approved,"Could you please help me set up the app on my phone.
+Thank you,
+Matt Troutt
+Asset Manager
+EastGroup Properties
+6565 N. MacArthur Blvd.
+Suite 255
+Irving, TX 75039
+O: 972.386.8700 | M: 972.832.1990
+Email: matt.troutt@eastgroup.net
+Web: [www.eastgroup.net](http://www.eastgroup.net/)
+From: IT <it@eastgroup.net>
+Sent: Thursday, January 11, 2024 10:50 AM
+To: Matt Troutt <matt.troutt@eastgroup.net>
+Subject: [TICK:17344] FW: San Antonio Pay Scan
+IT – Please see below.  Matt to replace David in the Asset Manager role for the San Antonio market.
+Thanks,
+Barry
+From: David Hicks <David.Hicks@eastgroup.net>
+Sent: Thursday, January 11, 2024 10:07 AM
+To: Matt Troutt <matt.troutt@eastgroup.net>
+Cc: Barry Anderson <Barry.Anderson@eastgroup.net>
+Subject: RE: San Antonio Pay Scan
+Yes please.
+David Y. Hicks, Jr.
+Vice President
+EastGroup Properties
+6565 N. MacArthur Blvd.
+Suite 255
+Irving, TX 75039
+O: 972.386.8700 | M: 214.449.5919
+Email:  david.hicks@eastgroup.net
+Web:   [www.eastgroup.net](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.eastgroup.net&d=DwMFAg&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=0KIDr3-vnx8pblF3ZVv7vf0G0qsPjvgNYxDXOwmyz8Y&m=122zk5UJSGSQKuAHR-MjScMWGyeUKQ-s7vyb6-zuw4U&s=ovahDWsGo7TFra5Pr7Hx-xnLa6CoeN_735-ZdQr6je8&e=)
+From: Matt Troutt <matt.troutt@eastgroup.net>
+Sent: Thursday, January 11, 2024 9:33 AM
+To: David Hicks <David.Hicks@eastgroup.net>
+Cc: Barry Anderson <Barry.Anderson@eastgroup.net>
+Subject: San Antonio Pay Scan
+David – Confirming you would like to move the San Antonio pay scan approvals to me?  I think we discussed this previously.
+Thank you,
+Matt Troutt
+Asset Manager
+EastGroup Properties
+6565 N. MacArthur Blvd.
+Suite 255
+Irving, TX 75039
+O: 972.386.8700 | M: 972.832.1990
+Email: matt.troutt@eastgroup.net
+Web: [www.eastgroup.net](http://www.eastgroup.net/)
+Performed contact replacement for david to matt on .sanant property list for asset manager and asset manager 2.
+Created Matt in the Asset Manager attribute.
+Replaced David with Matt as asset manager in attributes for all .sanant properties.
+Created .matt property list (Asset Manager = Matt Trout, Property Status = Active)
+[screenshot_gtybi0gp6.png.f079d350596b4d5c29477c4f40c13435]
+[screenshot_1f3rgn0wc.png.34fd6f7fb356a81f7161931c2a9f810e]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Performed contact replacement for david to matt on .sanant property list for asset manager and asset manager 2.
+Created Matt in the Asset Manager attribute.
+Replaced David with Matt as asset manager in attributes for all .sanant properties.
+Created .matt property list (Asset Manager = Matt Trout, Property Status = Active) Closed Email Sent","IT - Please see below. Matt to replace David in the Asset Manager role for the San Antonio market. Thanks, Barry From: David Hicks  Sent: Thursday, January 11, 2024 10:07 AM To: Matt Troutt  Cc: Barry Anderson  Subject: RE: San Antonio Pay Scan Yes please. David Y. Hicks, Jr. Vice President EastGroup Properties 6565 N. MacArthur Blvd. Suite 255 Irving, TX 75039 O: 972.386.8700 | M: 214.449.5919 Email: david.hicks@eastgroup.net Web: [www.eastgroup.net](https://urldefense.proofpoint.com/v2/url?u=http-3A__www.eastgroup.net&d=DwMFAg&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=0KIDr3-vnx8pblF3ZVv7vf0G0qsPjvgNYxDXOwmyz8Y&m=122zk5UJSGSQKuAHR-MjScMWGyeUKQ-s7vyb6-zuw4U&s=ovahDWsGo7TFra5Pr7Hx-xnLa6CoeN_735-ZdQr6je8&e=) From: Matt Troutt  Sent: Thursday, January 11, 2024 9:33 AM To: David Hicks  Cc: Barry Anderson  Subject: San Antonio Pay Scan David – Confirming you would like to move the San Antonio pay scan approvals to me? I think we discussed this previously. Thank you, Matt Troutt Asset Manager EastGroup Properties 6565 N. MacArthur Blvd. Suite 255 Irving, TX 75039 O: 972.386.8700 | M: 972.832.1990 Email: matt.troutt@eastgroup.net Web: [www.eastgroup.net](http://www.eastgroup.net/)",,01-11-2024 15:40,Brian Laird,"matt.troutt@eastgroup.net, haley.boykin@eastgroup.net",The K1000 Service Desk,Good
+17327,Opening FIles,Madison Stephens,Micah Rumbaugh,Microsoft::OneDrive,approved,"[A computer screen with a white box  Description automatically generated]
+All the best,
+Madison Stephens
+Property Manager
+EastGroup Properties
+9206 Florida Palm Drive
+Tampa, FL 33619
+O: 813.249.6105
+C: 817.991.9155
+madison.stephens@eastgroup.net[www.eastgroup.net](http://www.eastgroup.net/)
+Device ""TPA-W10-MS"" was deleted. This error is usually due to the file name or path being too long
+Had madison shorten the name and that resolved the issue
+Ticket is good to close We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","This error is usually due to the file name or path being too long
+Had madison shorten the name and that resolved the issue
+Ticket is good to close Closed Email Sent","[A computer screen with a white box  Description automatically generated]
+All the best,
+Madison Stephens
+Property Manager
+EastGroup Properties
+9206 Florida Palm Drive
+Tampa, FL 33619
+O: 813.249.6105
+C: 817.991.9155
+madison.stephens@eastgroup.net[www.eastgroup.net](http://www.eastgroup.net/)",,01-10-2024 14:46,Brian Laird,,The K1000 Service Desk,Good
+17319,Thank you & FL industrial color : C&W statewide notes,Chris Segrest,Benjamin Garrett,Hardware::Printer,,"Thank you for reaching out to EastGroup IT.
+We have received your ticket and will be reviewing that shortly.
+Ben – these are the two we needed printed out on the Orlando copier for our BOA meeting this week. Assume it is a file size issue because I can print out smaller updates from C&W.
+Need these by the end of the day – thanks, Chris
+From: Josh Faircloth/USA <Joshua.Faircloth@cushwake.com>
+Sent: Monday, January 8, 2024 10:37 AM
+To: Chris Segrest <Chris.Segrest@eastgroup.net>
+Subject: [EXTERNAL] RE: Thank you & FL industrial color : C&W statewide notes
+Hey Chris,
+3Q IND MBs attached. Also included our Why South Florida deck. We do not have a current version of Why Jax, latest one is from 4Q21, but are working on updating the format to match the other markets now.
+Best Regards,
+Josh Faircloth
+Research Manager | Central & Northern Florida
+Direct: +1 813 424 3220
+Mobile: +1 813 389 5340
+joshua.faircloth@cushwake.com
+[image001.png.6a16deff64ee22d7e4723e6e4085c0eb]
+One Tampa City Center
+Suite 3300
+Tampa, FL 33602 | USA
+[cushmanwakefield.com](http://www.cushmanwakefield.com/)
+[LinkedIn](https://www.linkedin.com/company/cushman-&-wakefield) | [Facebook](https://www.facebook.com/CushmanWakefield) | [Twitter](https://twitter.com/cushwake) | [YouTube](https://www.youtube.com/user/theCushmanWakefield) | [Google](https://plus.google.com/117696679233125464118/posts)+ | [Instagram](https://instagram.com/cushwake)
+Device ""ORL-W10-CS2"" was deleted. Document was trying to print ""Actual Size"", so it was erroring out.
+Printed from my computer with the ""fit"" option selected.
+First document printed, but then the printer buffer was full and subsequent documents wouldn't print.
+Had to reboot printer and then the second document printed as well. We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Document was trying to print ""Actual Size"", so it was erroring out.
+Printed from my computer with the ""fit"" option selected.
+First document printed, but then the printer buffer was full and subsequent documents wouldn't print.
+Had to reboot printer and then the second document printed as well. Closed Email Sent","Ben - these are the two we needed printed out on the Orlando copier for our BOA meeting this week. Assume it is a file size issue because I can print out smaller updates from C&W. Need these by the end of the day – thanks, Chris From: Josh Faircloth/USA  Sent: Monday, January 8, 2024 10:37 AM To: Chris Segrest  Subject: [EXTERNAL] RE: Thank you & FL industrial color : C&W statewide notes Hey Chris, 3Q IND MBs attached. Also included our Why South Florida deck. We do not have a current version of Why Jax, latest one is from 4Q21, but are working on updating the format to match the other markets now. Best Regards, Josh Faircloth Research Manager | Central & Northern Florida Direct: +1 813 424 3220 Mobile: +1 813 389 5340 joshua.faircloth@cushwake.com [image001.png.6a16deff64ee22d7e4723e6e4085c0eb] One Tampa City Center Suite 3300 Tampa, FL 33602 | USA [cushmanwakefield.com](http://www.cushmanwakefield.com/) [LinkedIn](https://www.linkedin.com/company/cushman-&-wakefield) | [Facebook](https://www.facebook.com/CushmanWakefield) | [Twitter](https://twitter.com/cushwake) | [YouTube](https://www.youtube.com/user/theCushmanWakefield) | [Google](https://plus.google.com/117696679233125464118/posts)+ | [Instagram](https://instagram.com/cushwake)",,01-08-2024 15:33,,benjamin.garrett@eastgroup.net,The K1000 Service Desk,Good
+17309,Yardi Contact Change,Benjamin Garrett,Benjamin Garrett,Yardi::Other,approved,"[screenshot_n2ph4duqm.png.1ea12e6b8a210da34c2bf284838aa7d4]
+Shirley has an IR for the egplp property that needs to go to Ben Rogers.
+[screenshot_a1latu0xg.png.c92c0703e31a7f126396ff75babae5bc]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Added Ben as construction manager on EPGLP property.
+Rebuilt workflow approvers.
+Closed Email Sent",,,01-08-2024 07:26,Brian Laird,,The K1000 Service Desk,Good
+17296,Yardi Access - Tamara Ihly CBRE,Cristen Fortier,Benjamin Garrett,Yardi::Other,approved,"See highlighted email chain below. Tamara Ihly from CBRE is asking for Yardi access for the Airways properties. JT approval screenshot included below.
+[A screenshot of a computer  Description automatically generated]
+From: Ihly, Tamara @ Denver-17thSt <Tamara.Ihly@cbre.com>
+Sent: Wednesday, January 3, 2024 4:15 PM
+To: Cristen Fortier <cristen.fortier@eastgroup.net>
+Subject: [EXTERNAL] RE: [EXTERNAL] RE: December Variance Reports
+Thank you Cristen,
+Jessica will be back in the office the 8th. I will be taking over accounting tasks for Jessica moving forward.
+Thank you for your help on this. Greatly appreciate it.
+Tamara Ihly
+General Manager
+CBRE | Property Management
+1225 17th Street, Suite 3200 | Denver, CO 80202
+T +1 303 824 4729tamara.ihly@cbre.com
+24/7 Emergency Line +1 800 673 6898
+From: Cristen Fortier <cristen.fortier@eastgroup.net>
+Sent: Wednesday, January 3, 2024 3:04 PM
+To: Ihly, Tamara @ Denver-17thSt <Tamara.Ihly@cbre.com>
+Subject: RE: [EXTERNAL] RE: December Variance Reports
+External
+Hey Tamara –
+I will have to submit an IT ticket to get you access. How long will Jessica be out? So IT knows a timeline.
+Thanks!
+Cristen
+From: Ihly, Tamara @ Denver-17thSt <Tamara.Ihly@cbre.com>
+Sent: Wednesday, January 3, 2024 12:43 PM
+To: Cristen Fortier <cristen.fortier@eastgroup.net>
+Subject: [EXTERNAL] RE: December Variance Reports
+Hello Cristen,
+I’m not sure if you are the right person to assist, Jessica Vazquez will be out of the office, and I oversee her portfolios which includes the Airways Buildings. Can you provide me access to the Yardi accounting system? I’d like to prepare the variance report and will need access moving forward.
+Thank you,
+Tamara Ihly
+General Manager
+CBRE | Property Management
+1225 17th Street, Suite 3200 | Denver, CO 80202
+T +1 303 824 4729tamara.ihly@cbre.com
+24/7 Emergency Line +1 800 673 6898
+From: Cristen Fortier <cristen.fortier@eastgroup.net>
+Sent: Saturday, December 30, 2023 7:28 PM
+To: EGPPropMgrs <EGPPropMgrs@eastgroup.net>; NonEGPPropMgrs <NonEGPPropMgrs@eastgroup.net>
+Cc: Barry Anderson <Barry.Anderson@eastgroup.net>; Roshunda Brown <roshunda.brown@eastgroup.net>; Sandra Patterson <sandra.patterson@eastgroup.net>; Haley Boykin <haley.boykin@eastgroup.net>; Jessica Woods <jessica.woods@eastgroup.net>; Janice Burcham <Janice.Burcham@eastgroup.net>; Candace Gladden <candace.gladden@eastgroup.net>; Heather Woodson <heather.woodson@eastgroup.net>
+Subject: December Variance Reports
+External
+*** Please copy your Senior Accountant on your Monthly Reports ***
+Please begin preparing your monthly variance reports. Please explain variances greater than or equal to $2,500 and 10%.
+You will not need to provide explanations for the following accounts:
+·         Expense Pass Thru Income
+·         Accrued Pass Thru Income
+·         Other REO Income
+·         Management Fees
+·         Property Insurance
+·         Property Taxes
+To access the appropriate report within YARDI follow the path below:
+Analytics > Financial > Financial
+The reports can also be run by market thru Financial Packets (Reports > Financial Packets)
+Please use the PRACC_IS Account Tree which excludes any budgeted straight line rent adjustments.
+Please use the appropriate sets of books when generating your reports as shown below:
+January: Accrual ^ Depreciation ^ STD
+February: Accrual ^ Depreciation ^ STD
+March: Accrual ^ Depreciation ^ STD
+April: Accrual ^ Depreciation ^ REV1
+May: Accrual ^ Depreciation ^ REV1
+June: Accrual ^ Depreciation ^ REV1
+July: Accrual ^ Depreciation ^ REV2
+August: Accrual ^ Depreciation ^ REV2
+September: Accrual ^ Depreciation ^ REV2
+October: Accrual ^ Depreciation ^ REV3
+November: Accrual ^ Depreciation ^ REV3
+December: Accrual ^ Depreciation ^ REV3
+Please contact your Accountant if you have any questions.
+Cristen Fortier, CPA
+Property Accounting Manager
+EastGroup Properties
+400 W Parkway Place Suite 100
+Ridgeland, MS 39157
+O: 601.354.3555
+[www.eastgroup.net](https://urldefense.com/v3/__https:/linkprotect.cudasvc.com/url?a=http*3a*2f*2fwww.eastgroup.net*2f&c=E,1,L62d-1VG6n69R-xwoLZpU9280LAE_Clo-zUXcpteXZde7J4pMLghddRnbbYFAvq8kVtHXxObMnS6ul2QluW9wwTIx_oiUaqPy_nB7ol8kIXoZaIk3T6Y76Io&typo=1__;JSUlJQ!!GnpIGg!dqowYH1Tag-3z3yV4Lf5IIe1ZA96a8XXJnB8ttFSVbMBAYYsurUVfm1ZD4IA76ZPV6CrxOYcBtDSoRbg9OZxG97xvqH5cQ$)
+Details about the personal data CBRE collects and why, as well as your data privacy rights under applicable law, are available at [CBRE – Privacy Policy.](https://www.cbre.com/about/privacy-policy/policy-picker)
+Setup out of office delegation for Jessica to Tamara from 1/4-1/8.
+[screenshot_nyppknxc6.png.f50bad10590846e33f05c3537133748a]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Setup out of office delegation for Jessica to Tamara from 1/4-1/8.
+Closed Email Sent","See highlighted email chain below. Tamara Ihly from CBRE is asking for Yardi access for the Airways properties. JT approval screenshot included below. [A screenshot of a computer Description automatically generated] From: Ihly, Tamara @ Denver-17thSt  Sent: Wednesday, January 3, 2024 4:15 PM To: Cristen Fortier  Subject: [EXTERNAL] RE: [EXTERNAL] RE: December Variance Reports Thank you Cristen, Jessica will be back in the office the 8th. I will be taking over accounting tasks for Jessica moving forward. Thank you for your help on this. Greatly appreciate it. Tamara Ihly General Manager CBRE | Property Management 1225 17th Street, Suite 3200 | Denver, CO 80202 T +1 303 824 4729tamara.ihly@cbre.com 24/7 Emergency Line +1 800 673 6898 From: Cristen Fortier  Sent: Wednesday, January 3, 2024 3:04 PM To: Ihly, Tamara @ Denver-17thSt  Subject: RE: [EXTERNAL] RE: December Variance Reports External Hey Tamara – I will have to submit an IT ticket to get you access. How long will Jessica be out? So IT knows a timeline. Thanks! Cristen From: Ihly, Tamara @ Denver-17thSt  Sent: Wednesday, January 3, 2024 12:43 PM To: Cristen Fortier  Subject: [EXTERNAL] RE: December Variance Reports Hello Cristen, I’m not sure if you are the right person to assist, Jessica Vazquez will be out of the office, and I oversee her portfolios which includes the Airways Buildings. Can you provide me access to the Yardi accounting system? I’d like to prepare the variance report and will need access moving forward. Thank you, Tamara Ihly General Manager CBRE | Property Management 1225 17th Street, Suite 3200 | Denver, CO 80202 T +1 303 824 4729tamara.ihly@cbre.com 24/7 Emergency Line +1 800 673 6898 From: Cristen Fortier  Sent: Saturday, December 30, 2023 7:28 PM To: EGPPropMgrs ; NonEGPPropMgrs  Cc: Barry Anderson ; Roshunda Brown ; Sandra Patterson ; Haley Boykin ; Jessica Woods ; Janice Burcham ; Candace Gladden ; Heather Woodson  Subject: December Variance Reports External *** Please copy your Senior Accountant on your Monthly Reports *** Please begin preparing your monthly variance reports. Please explain variances greater than or equal to $2,500 and 10%. You will not need to provide explanations for the following accounts: · Expense Pass Thru Income · Accrued Pass Thru Income · Other REO Income · Management Fees · Property Insurance · Property Taxes To access the appropriate report within YARDI follow the path below: Analytics > Financial > Financial The reports can also be run by market thru Financial Packets (Reports > Financial Packets) Please use the PRACC_IS Account Tree which excludes any budgeted straight line rent adjustments. Please use the appropriate sets of books when generating your reports as shown below: January: Accrual ^ Depreciation ^ STD February: Accrual ^ Depreciation ^ STD March: Accrual ^ Depreciation ^ STD April: Accrual ^ Depreciation ^ REV1 May: Accrual ^ Depreciation ^ REV1 June: Accrual ^ Depreciation ^ REV1 July: Accrual ^ Depreciation ^ REV2 August: Accrual ^ Depreciation ^ REV2 September: Accrual ^ Depreciation ^ REV2 October: Accrual ^ Depreciation ^ REV3 November: Accrual ^ Depreciation ^ REV3 December: Accrual ^ Depreciation ^ REV3 Please contact your Accountant if you have any questions. Cristen Fortier, CPA Property Accounting Manager EastGroup Properties 400 W Parkway Place Suite 100 Ridgeland, MS 39157 O: 601.354.3555 [www.eastgroup.net](https://urldefense.com/v3/__https:/linkprotect.cudasvc.com/url?a=http*3a*2f*2fwww.eastgroup.net*2f&c=E,1,L62d-1VG6n69R-xwoLZpU9280LAE_Clo-zUXcpteXZde7J4pMLghddRnbbYFAvq8kVtHXxObMnS6ul2QluW9wwTIx_oiUaqPy_nB7ol8kIXoZaIk3T6Y76Io&typo=1__;JSUlJQ!!GnpIGg!dqowYH1Tag-3z3yV4Lf5IIe1ZA96a8XXJnB8ttFSVbMBAYYsurUVfm1ZD4IA76ZPV6CrxOYcBtDSoRbg9OZxG97xvqH5cQ$) Details about the personal data CBRE collects and why, as well as your data privacy rights under applicable law, are available at [CBRE – Privacy Policy.](https://www.cbre.com/about/privacy-policy/policy-picker)",,01-04-2024 07:15,Brian Laird,,The K1000 Service Desk,Good
+17279,error message,Farrah Kennedy,Melissa Romig,Microsoft::Sharepoint,,"Thank you for reaching out to EastGroup IT.
+We have received your ticket and will be reviewing that shortly.
+That works.  Thank you!
+From: IT <it@eastgroup.net>
+Sent: Tuesday, January 2, 2024 10:43 AM
+To: Farrah Kennedy <Farrah.Kennedy@eastgroup.net>
+Subject: [TICK:17279] error message
+Hi!  I am getting an error message when I try to access the Orlando EGPS sharepoint…
+[A screenshot of a computer  Description automatically generated]
+Farrah Kennedy, CPA
+Vice President and Director of Internal Audit
+EastGroup Properties
+400 West Parkway Place, Suite 100
+Ridgeland, MS 39157
+O: 601.354.3555 | F: 601.352.1441
+[www.eastgroup.net](http://www.eastgroup.net/)
+Device ""RDG-W10-FK2"" was deleted. Resent the link and Farrah was able to access.  Try this link
+https://eastgroupproperties.sharepoint.com/sites/Orlando-EGPS/Shared%20Documents/
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Resent the link and Farrah was able to access.
+Closed Email Sent","Hi!  I am getting an error message when I try to access the Orlando EGPS sharepoint..
+[A screenshot of a computer  Description automatically generated]
+Farrah Kennedy, CPA
+Vice President and Director of Internal Audit
+EastGroup Properties
+400 West Parkway Place, Suite 100
+Ridgeland, MS 39157
+O: 601.354.3555 | F: 601.352.1441
+[www.eastgroup.net](http://www.eastgroup.net/)",,01-02-2024 14:25,,,The K1000 Service Desk,Good
+17260,[EXTERNAL] RE: Justin Nakagiri Chestnut Yardi Approval Rights,Kyle Hammerstein,Melissa Romig,Yardi::Other,approved,"+EastGroup IT due to Brian being OOO
+Please see below, thanks!
+[image001.png.a20f78e306d2978640c2dfe143304478]
+Kyle Hammerstein – DRE Lic. #02122557
+Manager – Landlord Services
+IDS Real Estate Group
+515 S. Figueroa Street, 16th Floor
+Los Angeles, California 90071
+T: 213.873.5805   C: 424.247.3528
+E: khammerstein@idsrealestate.com
+[www.idsrealestate.com](http://www.idsrealestate.com/)
+From: Kyle Hammerstein
+Sent: Thursday, December 28, 2023 4:52 PM
+To: Brian Laird (Brian.Laird@eastgroup.net) <Brian.laird@eastgroup.net>
+Cc: Janice Burcham <Janice.Burcham@eastgroup.net>; Justin Nakagiri <jnakagiri@idsrealestate.com>
+Subject: Justin Nakagiri Chestnut Yardi Approval Rights
+Hi Brian,
+I hope you are enjoying the holidays! My colleague, Amber Olivas, is out of the office this week. She had approval rights to Chestnut on Yardi and was the one who was assigning the invoices from Chestnut to the correct properties.
+In her absence, can you please give Justin Nakagiri (copied) approval rights for Chestnut so we can process invoices this week? It might be good to have all IDS team members have approval access for Chestnut, but for now, we just need to set up Justin.
+Thank you,
+[image001.png.a20f78e306d2978640c2dfe143304478]
+Kyle Hammerstein – DRE Lic. #02122557
+Manager – Landlord Services
+IDS Real Estate Group
+515 S. Figueroa Street, 16th Floor
+Los Angeles, California 90071
+T: 213.873.5805   C: 424.247.3528
+E: khammerstein@idsrealestate.com
+[www.idsrealestate.com](http://www.idsrealestate.com/)
+Amber's Out of Office assistant has been turned on effective 12/25 to 12/31 and Justin has been assigned has her invoice Delegate. Invoices should now be going to his queue.
+[screenshot_vku5ls0yi.png.85ee7745f819342eef2953bb93a148de]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Amber's Out of Office assistant has been turned on effective 12/25 to 12/31 and Justin has been assigned has her invoice Delegate. Invoices should now be going to his queue.
+Closed Email Sent","+EastGroup IT due to Brian being OOO Please see below, thanks! [image001.png.a20f78e306d2978640c2dfe143304478] Kyle Hammerstein - DRE Lic. #02122557 Manager - Landlord Services IDS Real Estate Group 515 S. Figueroa Street, 16th Floor Los Angeles, California 90071 T: 213.873.5805 C: 424.247.3528 E: khammerstein@idsrealestate.com [www.idsrealestate.com](http://www.idsrealestate.com/) From: Kyle Hammerstein Sent: Thursday, December 28, 2023 4:52 PM To: Brian Laird (Brian.Laird@eastgroup.net)  Cc: Janice Burcham ; Justin Nakagiri  Subject: Justin Nakagiri Chestnut Yardi Approval Rights Hi Brian, I hope you are enjoying the holidays! My colleague, Amber Olivas, is out of the office this week. She had approval rights to Chestnut on Yardi and was the one who was assigning the invoices from Chestnut to the correct properties. In her absence, can you please give Justin Nakagiri (copied) approval rights for Chestnut so we can process invoices this week? It might be good to have all IDS team members have approval access for Chestnut, but for now, we just need to set up Justin. Thank you, [image001.png.a20f78e306d2978640c2dfe143304478] Kyle Hammerstein - DRE Lic. #02122557 Manager - Landlord Services IDS Real Estate Group 515 S. Figueroa Street, 16th Floor Los Angeles, California 90071 T: 213.873.5805 C: 424.247.3528 E: khammerstein@idsrealestate.com [www.idsrealestate.com](http://www.idsrealestate.com/)",,12/29/2023 12:30,Brian Laird,"janice.burcham@eastgroup.net, jnakagiri@idsrealestate.com, brian.laird@eastgroup.net",The K1000 Service Desk,Good
+16710,PRACC Final Reviewer - PRACC Utility Workflow - Bay Area,Cristen Fortier,Benjamin Garrett,Yardi::Other,,"Thank you for reaching out to EastGroup IT.
+We have received your ticket and will be reviewing that shortly.
+Please remove me as a final reviewer on the PRACC Utility Workflow for the Bay Area properties since I am the senior accountant for that market.
+Thanks!
+Cristen
+Cristen Fortier, CPA
+Property Accounting Manager
+EastGroup Properties
+400 W Parkway Place Suite 100
+Ridgeland, MS 39157
+O: 601.354.3555
+[www.eastgroup.net](http://www.eastgroup.net/)
+Brian spoke with Barry, and they agreed that this would require a lot of backend work for minimal benefit. So they agreed to leave it as is for the time being. We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Brian spoke with Barry, and they agreed that this would require a lot of backend work for minimal benefit. So they agreed to leave it as is for the time being.
+Closed Email Sent","Please remove me as a final reviewer on the PRACC Utility Workflow for the Bay Area properties since I am the senior accountant for that market.
+Thanks!
+Cristen
+Cristen Fortier, CPA
+Property Accounting Manager
+EastGroup Properties
+400 W Parkway Place Suite 100
+Ridgeland, MS 39157
+O: 601.354.3555
+[www.eastgroup.net](http://www.eastgroup.net/)",,11/22/2023 8:21,,,The K1000 Service Desk,Average
+16711,Rent Rolls,Miki Goad,Benjamin Garrett,Yardi::Other,approved,"Thank you for reaching out to EastGroup IT.
+We have received your ticket and will be reviewing that shortly.
+Good morning -
+The rent roll for AZ/NV that generates and is emailed to me the first of each month does not include the new properties in Las Vegas…Bdbp01, Bdbp02, and Craigc.  Can you update to include when you have a minute?
+Thanks!
+Miki Goad
+Property Administrator
+EastGroup Properties
+2141 E Camelback Rd, Ste 250
+Phoenix, AZ 85016
+O: 602.840.8600
+[www.eastgroup.net](http://www.eastgroup.net/)
+“Every accomplishment starts with the decision
+to try.”  John F. Kennedy
+Added craigc and bdbp1 and bdbp2 to the Miki-ms report distribution member
+[screenshot_2sh80d9zw.png.b809c24698211e6f37aae246d25b1402]
+[screenshot_489xe9l3d.png.6010c46f7e6f081a463e399ad53040fe]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Added craigc and bdbp1 and bdbp2 to the Miki-ms report distribution member
+Closed Email Sent","Good morning -
+The rent roll for AZ/NV that generates and is emailed to me the first of each month does not include the new properties in Las Vegas…Bdbp01, Bdbp02, and Craigc.  Can you update to include when you have a minute?
+Thanks!
+Miki Goad
+Property Administrator
+EastGroup Properties
+2141 E Camelback Rd, Ste 250
+Phoenix, AZ 85016
+O: 602.840.8600
+[www.eastgroup.net](http://www.eastgroup.net/)
+“Every accomplishment starts with the decision
+to try.”  John F. Kennedy",,11/22/2023 7:50,Brian Laird,,The K1000 Service Desk,Average
+16712,make active,Barbara Savage,Benjamin Garrett,Vendor,approved,"Thank you!
+Barbara Savage
+Disbursements Specialist
+EastGroup Properties
+400 W PARKWY PL STE 100
+RIDGELAND, MS 39157
+O: 601.354.3555 | F: 601.352.1441
+[www.eastgroup.net](http://www.eastgroup.net/)
+From: IT <it@eastgroup.net>
+Sent: Tuesday, November 21, 2023 4:14 PM
+To: Barbara Savage <Barbara.Savage@eastgroup.net>
+Subject: [TICK:16712] make active
+Please make jnblixpe active again.
+Thanks
+Barbara Savage
+Disbursements Specialist
+EastGroup Properties
+400 W PARKWY PL STE 100
+RIDGELAND, MS 39157
+O: 601.354.3555 | F: 601.352.1441
+[www.eastgroup.net](http://www.eastgroup.net/)
+Restarted vendor workflow for jnblixpe
+[screenshot_hffhxkhee.png.a0631b4a5591232dcaf356c75ecf22e2]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Restarted vendor workflow for jnblixpe
+Closed Email Sent","Please make jnblixpe active again.
+Thanks
+Barbara Savage
+Disbursements Specialist
+EastGroup Properties
+400 W PARKWY PL STE 100
+RIDGELAND, MS 39157
+O: 601.354.3555 | F: 601.352.1441
+[www.eastgroup.net](http://www.eastgroup.net/)",,11/22/2023 7:49,Brian Laird,,The K1000 Service Desk,Average
+16713,[EXTERNAL] Failed - COIRequestReminders. Task Status Change Notification.,Task Automation,Benjamin Garrett,Unclassified,,"Hello,
+Task COIRequestReminders is scheduled to run At 01:00 AM.
+Client Pin: 100051229
+Company Name: EastGroup Properties, Inc.
+Database: LIVE
+Environment: PROD
+Timezone: America/New_York
+It has failed running at 11/22/2023 01:00:40 America/New_York.
+Thank you,
+Task Automation.
+---------------------------------------------------------------
+Internal Id: 1505_93641_COIRequestReminders
+Agent: elevatenet-angularadminscheduler-prod-1-multitenant-6b9d6dh5j2j
+I have submitted this to Yardi for review. Let's go ahead and close this ticket since the change is something on their side  to make this work. We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Closing based on Brian's request.
+Closed Email Sent","Hello,
+Task COIRequestReminders is scheduled to run At 01:00 AM.
+Client Pin: 100051229
+Company Name: EastGroup Properties, Inc.
+Database: LIVE
+Environment: PROD
+Timezone: America/New_York
+It has failed running at 11/22/2023 01:00:40 America/New_York.
+Thank you,
+Task Automation.
+---------------------------------------------------------------
+Internal Id: 1505_93641_COIRequestReminders
+Agent: elevatenet-angularadminscheduler-prod-1-multitenant-6b9d6dh5j2j",,11/22/2023 12:31,,,The K1000 Service Desk,Average
+16714,[EXTERNAL] Failed - COIRequestReminders. Task Status Change Notification.,Task Automation,Benjamin Garrett,Unclassified,,"Duplicate of 16713  Hello,
+Task COIRequestReminders is scheduled to run At 01:00 AM.
+Client Pin: 100051229
+Company Name: EastGroup Properties, Inc.
+Database: LIVE
+Environment: PROD
+Timezone: America/New_York
+It has failed running at 11/22/2023 01:00:40 America/New_York.
+Thank you,
+Task Automation.
+---------------------------------------------------------------
+Internal Id: 1505_93641_COIRequestReminders
+Agent: elevatenet-angularadminscheduler-prod-1-multitenant-6b9d6dh5j2j
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!",Closing - Duplicate of 16713  Closed Email Sent,"Hello,
+Task COIRequestReminders is scheduled to run At 01:00 AM.
+Client Pin: 100051229
+Company Name: EastGroup Properties, Inc.
+Database: LIVE
+Environment: PROD
+Timezone: America/New_York
+It has failed running at 11/22/2023 01:00:40 America/New_York.
+Thank you,
+Task Automation.
+---------------------------------------------------------------
+Internal Id: 1505_93641_COIRequestReminders
+Agent: elevatenet-angularadminscheduler-prod-1-multitenant-6b9d6dh5j2j",,11/22/2023 9:55,,,The K1000 Service Desk,Average
+16715,[EXTERNAL] Cloud to Cloud Backup Daily Summary Report for EastGroup Properties,Barracuda Support,Micah Rumbaugh,Barracuda,approved,"All Barracuda checks successful, no warnings or errors
+Ticket is good to close
+Account Name: EastGroup Properties
+Serial Number: 2016614
+[sharepoint.png] SharePoint
+Type	End Date	Success	Warnings	Errors
+Backup	Wednesday, 22 November 2023 01:48	[success.png]	0	0
+[teams.png] Teams
+Type	End Date	Success	Warnings	Errors
+Backup	Wednesday, 22 November 2023 06:59	[success.png]	0	0
+[exchange.png] Exchange
+Type	End Date	Success	Warnings	Errors
+Backup	Tuesday, 21 November 2023 19:13	[success.png]	0	0
+[onedrive.png] OneDrive
+Type	End Date	Success	Warnings	Errors
+Backup	Tuesday, 21 November 2023 18:54	[success.png]	0	0
+You can contact Barracuda Networks at https://www.barracuda.com/support if you have any questions about your summary report.
+Thank you.
+- Barracuda Cloud to Cloud Backup
+[barracuda-logo.png]  We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Barracuda Networks Cloud Backup ticket. If backup contains no warnings/errors, ticket is good to close. If backup contains warnings/errors, that should be resolved by next daily backup and can be closed as well.","Account Name: EastGroup Properties
+Serial Number: 2016614
+[sharepoint.png] SharePoint
+Type	End Date	Success	Warnings	Errors
+Backup	Wednesday, 22 November 2023 01:48	[success.png]	0	0
+[teams.png] Teams
+Type	End Date	Success	Warnings	Errors
+Backup	Wednesday, 22 November 2023 06:59	[success.png]	0	0
+[exchange.png] Exchange
+Type	End Date	Success	Warnings	Errors
+Backup	Tuesday, 21 November 2023 19:13	[success.png]	0	0
+[onedrive.png] OneDrive
+Type	End Date	Success	Warnings	Errors
+Backup	Tuesday, 21 November 2023 18:54	[success.png]	0	0
+You can contact Barracuda Networks at https://www.barracuda.com/support if you have any questions about your summary report.
+Thank you.
+- Barracuda Cloud to Cloud Backup
+[barracuda-logo.png]",,11/22/2023 8:18,Brian Laird,,The K1000 Service Desk,Average
+16716,Delete Old VM EGAzureKace,Melissa Romig,Melissa Romig,Azure,approved,"EGAzureKace (192.168.55.25) was corrupted in 08/2022 and a new VM had to be spun up, KACE-AZURE. 192.168.55.17.
+I have deleted EGAzureKace and its associated resources from Azure.
+[screenshot_pmbegr093.png.edf4246947ee100bc076ad9cf24b8e8e]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!",Closed Email Sent,,,11/22/2023 11:09,Brian Laird,,The K1000 Service Desk,Average
+16717,TenantShield Package - COI Task,Brian Laird,Benjamin Garrett,Unclassified,approved,"[screenshot_7u5aveptk.png.78adb2dbefe11cde73009fc1cd6e614f]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT! We need to load the attached package into LIVE to resolve the COI Task notification failures we are receiving.","Package uploaded and executed in Live.
+Closed Email Sent",,,11/22/2023 14:39,Brian Laird,,The K1000 Service Desk,Average
+16718,[EXTERNAL] Cloud to Cloud Backup Daily Summary Report for EastGroup Properties,Barracuda Support,Micah Rumbaugh,Barracuda,approved,"All Barracuda checks successful, no warnings or errors
+Ticket is good to close
+Account Name: EastGroup Properties
+Serial Number: 2016614
+[sharepoint.png] SharePoint
+Type	End Date	Success	Warnings	Errors
+Backup	Thursday, 23 November 2023 01:44	[success.png]	0	0
+[teams.png] Teams
+Type	End Date	Success	Warnings	Errors
+Backup	Thursday, 23 November 2023 06:48	[success.png]	0	0
+[exchange.png] Exchange
+Type	End Date	Success	Warnings	Errors
+Backup	Wednesday, 22 November 2023 18:57	[success.png]	0	0
+[onedrive.png] OneDrive
+Type	End Date	Success	Warnings	Errors
+Backup	Wednesday, 22 November 2023 19:01	[success.png]	0	0
+You can contact Barracuda Networks at https://www.barracuda.com/support if you have any questions about your summary report.
+Thank you.
+- Barracuda Cloud to Cloud Backup
+[barracuda-logo.png]  We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Barracuda Networks Cloud Backup ticket. If backup contains no warnings/errors, ticket is good to close. If backup contains warnings/errors, that should be resolved by next daily backup and can be closed as well.","Account Name: EastGroup Properties
+Serial Number: 2016614
+[sharepoint.png] SharePoint
+Type	End Date	Success	Warnings	Errors
+Backup	Thursday, 23 November 2023 01:44	[success.png]	0	0
+[teams.png] Teams
+Type	End Date	Success	Warnings	Errors
+Backup	Thursday, 23 November 2023 06:48	[success.png]	0	0
+[exchange.png] Exchange
+Type	End Date	Success	Warnings	Errors
+Backup	Wednesday, 22 November 2023 18:57	[success.png]	0	0
+[onedrive.png] OneDrive
+Type	End Date	Success	Warnings	Errors
+Backup	Wednesday, 22 November 2023 19:01	[success.png]	0	0
+You can contact Barracuda Networks at https://www.barracuda.com/support if you have any questions about your summary report.
+Thank you.
+- Barracuda Cloud to Cloud Backup
+[barracuda-logo.png]",,11/27/2023 7:42,Brian Laird,,The K1000 Service Desk,Average
+16719,[EXTERNAL] Cloud to Cloud Backup Daily Summary Report for EastGroup Properties,Barracuda Support,Micah Rumbaugh,Barracuda,approved,"Account Name: EastGroup Properties
+Serial Number: 2016614
+[sharepoint.png] SharePoint
+Type	End Date	Success	Warnings	Errors
+Backup	Friday, 24 November 2023 01:48	[success.png]	0	0
+[teams.png] Teams
+Type	End Date	Success	Warnings	Errors
+Backup	Friday, 24 November 2023 06:52	[success.png]	0	0
+[exchange.png] Exchange
+Type	End Date	Success	Warnings	Errors
+Backup	Thursday, 23 November 2023 18:51	[warning.png]	2	0
+[onedrive.png] OneDrive
+Type	End Date	Success	Warnings	Errors
+Backup	Thursday, 23 November 2023 18:57	[success.png]	0	0
+You can contact Barracuda Networks at https://www.barracuda.com/support if you have any questions about your summary report.
+Thank you.
+- Barracuda Cloud to Cloud Backup
+[barracuda-logo.png]  Barracuda checks went through, 2 warnings
+Attaching screenshot for review
+[screenshot_udxowl7bu.png.dded5d3e3bb99022dc4df2f6bf6773fd]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Barracuda Networks Cloud Backup ticket. If backup contains no warnings/errors, ticket is good to close. If backup contains warnings/errors, that should be resolved by next daily backup and can be closed as well.","Account Name: EastGroup Properties
+Serial Number: 2016614
+[sharepoint.png] SharePoint
+Type	End Date	Success	Warnings	Errors
+Backup	Friday, 24 November 2023 01:48	[success.png]	0	0
+[teams.png] Teams
+Type	End Date	Success	Warnings	Errors
+Backup	Friday, 24 November 2023 06:52	[success.png]	0	0
+[exchange.png] Exchange
+Type	End Date	Success	Warnings	Errors
+Backup	Thursday, 23 November 2023 18:51	[warning.png]	2	0
+[onedrive.png] OneDrive
+Type	End Date	Success	Warnings	Errors
+Backup	Thursday, 23 November 2023 18:57	[success.png]	0	0
+You can contact Barracuda Networks at https://www.barracuda.com/support if you have any questions about your summary report.
+Thank you.
+- Barracuda Cloud to Cloud Backup
+[barracuda-logo.png]",,11/27/2023 7:41,Brian Laird,,The K1000 Service Desk,Average
+16720,Stub Hub,Kevin Sager,Micah Rumbaugh,Barracuda,approved,"Thank you for reaching out to EastGroup IT.
+We have received your ticket and will be reviewing that shortly.  Brian let Kevin know that it isn't in his spam section
+Ticket is good to close Device ""HOU-W10-KS2"" was deleted. Is this still an issue? Reached out via teams and awaiting response, also needing to check on outlook issue  Richard Quarles (JLL) broker attempted to forward me tickets via StubHub which I have not received. Would you check to see if system is blocking this email. Not sure if from StubHub or Richard.
+Thank you
+Sent from my iPhone
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Brian let Kevin know that it isn't in his spam section
+Ticket is good to close Closed Email Sent","Richard Quarles (JLL) broker attempted to forward me tickets via StubHub which I have not received. Would you check to see if system is blocking this email. Not sure if from StubHub or Richard.
+Thank you
+Sent from my iPhone",,11/30/2023 10:13,Brian Laird,,The K1000 Service Desk,Average
+16721,[EXTERNAL] Cloud to Cloud Backup Daily Summary Report for EastGroup Properties,Barracuda Support,Micah Rumbaugh,Barracuda,approved,"All Barracuda checks successful, no warnings or errors
+Ticket is good to close
+Account Name: EastGroup Properties
+Serial Number: 2016614
+[sharepoint.png] SharePoint
+Type	End Date	Success	Warnings	Errors
+Backup	Saturday, 25 November 2023 01:45	[success.png]	0	0
+[teams.png] Teams
+Type	End Date	Success	Warnings	Errors
+Backup	Saturday, 25 November 2023 06:52	[success.png]	0	0
+[exchange.png] Exchange
+Type	End Date	Success	Warnings	Errors
+Backup	Friday, 24 November 2023 19:33	[success.png]	0	0
+[onedrive.png] OneDrive
+Type	End Date	Success	Warnings	Errors
+Backup	Friday, 24 November 2023 18:52	[success.png]	0	0
+You can contact Barracuda Networks at https://www.barracuda.com/support if you have any questions about your summary report.
+Thank you.
+- Barracuda Cloud to Cloud Backup
+[barracuda-logo.png]  We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Barracuda Networks Cloud Backup ticket. If backup contains no warnings/errors, ticket is good to close. If backup contains warnings/errors, that should be resolved by next daily backup and can be closed as well.","Account Name: EastGroup Properties
+Serial Number: 2016614
+[sharepoint.png] SharePoint
+Type	End Date	Success	Warnings	Errors
+Backup	Saturday, 25 November 2023 01:45	[success.png]	0	0
+[teams.png] Teams
+Type	End Date	Success	Warnings	Errors
+Backup	Saturday, 25 November 2023 06:52	[success.png]	0	0
+[exchange.png] Exchange
+Type	End Date	Success	Warnings	Errors
+Backup	Friday, 24 November 2023 19:33	[success.png]	0	0
+[onedrive.png] OneDrive
+Type	End Date	Success	Warnings	Errors
+Backup	Friday, 24 November 2023 18:52	[success.png]	0	0
+You can contact Barracuda Networks at https://www.barracuda.com/support if you have any questions about your summary report.
+Thank you.
+- Barracuda Cloud to Cloud Backup
+[barracuda-logo.png]",,11/27/2023 7:41,Brian Laird,,The K1000 Service Desk,Average
+16722,[EXTERNAL] Cloud to Cloud Backup Daily Summary Report for EastGroup Properties,Barracuda Support,Micah Rumbaugh,Barracuda,approved,"Account Name: EastGroup Properties
+Serial Number: 2016614
+[sharepoint.png] SharePoint
+Type	End Date	Success	Warnings	Errors
+Backup	Sunday, 26 November 2023 01:39	[success.png]	0	0
+[teams.png] Teams
+Type	End Date	Success	Warnings	Errors
+Backup	Sunday, 26 November 2023 06:43	[success.png]	0	0
+[exchange.png] Exchange
+Type	End Date	Success	Warnings	Errors
+Backup	Saturday, 25 November 2023 19:03	[warning.png]	1	0
+[onedrive.png] OneDrive
+Type	End Date	Success	Warnings	Errors
+Backup	Saturday, 25 November 2023 18:55	[success.png]	0	0
+You can contact Barracuda Networks at https://www.barracuda.com/support if you have any questions about your summary report.
+Thank you.
+- Barracuda Cloud to Cloud Backup
+[barracuda-logo.png]  Barracuda checks went through, errors found
+Attaching screenshot for review
+[screenshot_r01ldsqmt.png.dd384c5ad685e38635c56659efda6537]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Barracuda Networks Cloud Backup ticket. If backup contains no warnings/errors, ticket is good to close. If backup contains warnings/errors, that should be resolved by next daily backup and can be closed as well.","Account Name: EastGroup Properties
+Serial Number: 2016614
+[sharepoint.png] SharePoint
+Type	End Date	Success	Warnings	Errors
+Backup	Sunday, 26 November 2023 01:39	[success.png]	0	0
+[teams.png] Teams
+Type	End Date	Success	Warnings	Errors
+Backup	Sunday, 26 November 2023 06:43	[success.png]	0	0
+[exchange.png] Exchange
+Type	End Date	Success	Warnings	Errors
+Backup	Saturday, 25 November 2023 19:03	[warning.png]	1	0
+[onedrive.png] OneDrive
+Type	End Date	Success	Warnings	Errors
+Backup	Saturday, 25 November 2023 18:55	[success.png]	0	0
+You can contact Barracuda Networks at https://www.barracuda.com/support if you have any questions about your summary report.
+Thank you.
+- Barracuda Cloud to Cloud Backup
+[barracuda-logo.png]",,11/27/2023 7:40,Brian Laird,,The K1000 Service Desk,Average
+16723,New Computer,Debe Nichols,Micah Rumbaugh,Hardware::Printer,approved,"Thank you for reaching out to EastGroup IT.
+We have received your ticket and will be reviewing that shortly.
+Please be advised my HP company printer was not put on my new computer. Laser Jet Pro M404dn.  Thanks,
+Debe
+Debe Nichols
+Senior Property Manager
+EastGroup Properties
+6565 N. MacArthur Blvd. STE 255
+Irving, TX 75039
+O: 972.386.8700 x1 | M:214.502.9948
+[www.eastgroup.net](http://www.eastgroup.net/)
+Device ""DAL-W10-DN2"" was deleted. Followed up with Debbie and she is not at home today
+Will attempt to set it up tomorrow 9am EST, 8am her time
+Using this as a reference  Remoted in
+Installed printer software https://support.hp.com/us-en/product/details/hp-laserjet-pro-m404-m405-series/19203833?openCLC=true
+Printed two test pages and both went through
+Ticket is good to close We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Remoted in
+Installed printer software https://support.hp.com/us-en/product/details/hp-laserjet-pro-m404-m405-series/19203833?openCLC=true
+Printed two test pages and both went through
+Ticket is good to close Closed Email Sent","Please be advised my HP company printer was not put on my new computer. Laser Jet Pro M404dn.  Thanks,
+Debe
+Debe Nichols
+Senior Property Manager
+EastGroup Properties
+6565 N. MacArthur Blvd. STE 255
+Irving, TX 75039
+O: 972.386.8700 x1 | M:214.502.9948
+[www.eastgroup.net](http://www.eastgroup.net/)",,11/28/2023 13:00,Brian Laird,,The K1000 Service Desk,Average
+16724,FW: [EXTERNAL] New response for EastGroup Properties Access Request Form,Micah Rumbaugh,Micah Rumbaugh,Microsoft::Other,approved,"---------------------------------------------------------------
+From: Microsoft Forms <maccount@microsoft.com>
+Sent: Monday, November 27, 2023 8:24:37 AM (UTC-05:00) Eastern Time (US & Canada)
+To: Micah Rumbaugh <micah.rumbaugh@eastgroup.net>
+Subject: [EXTERNAL] New response for EastGroup Properties Access Request Form
+[width-fix-640x2.gif]
+[View in browser](https://forms.office.com/Pages/DesignPage.aspx#FormId=wBBOKX2jvECraLjgF1p8m8gfezEsslNKtwJd_5YFN9lUMlVGNUo0V0lNS1gwQ1hQOFc0NjFKT1Q5Uy4u&Analysis=true)
+[Office Forms](https://forms.office.com)
+EastGroup Properties Access Request Form
+Hi, Micah Rumbaugh.
+You received one new response from Anonymous Submitter. [View](https://forms.office.com/Pages/DesignPage.aspx#FormId=wBBOKX2jvECraLjgF1p8m8gfezEsslNKtwJd_5YFN9lUMlVGNUo0V0lNS1gwQ1hQOFc0NjFKT1Q5Uy4u&Analysis=true) the results of your form.
+[Microsoft]
+Microsoft Corporation
+One Microsoft Way
+Redmond, WA 98052 USA
+You are receiving this email because you have subscribed to Microsoft Office 365.
+Copyright 2017 Microsoft Corporation. Privacy Statement
+Test ticket for the Access Request Form created on Microsoft Forms. Forwarding rules function as expected. Ticket can be closed. We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Test ticket for the Access Request Form created on Microsoft Forms. Forwarding rules function as expected. Ticket can be closed.
+Closed Email Sent","--------------------------------------------------------------- From: Microsoft Forms  Sent: Monday, November 27, 2023 8:24:37 AM (UTC-05:00) Eastern Time (US & Canada) To: Micah Rumbaugh  Subject: [EXTERNAL] New response for EastGroup Properties Access Request Form [width-fix-640x2.gif] [View in browser](https://forms.office.com/Pages/DesignPage.aspx#FormId=wBBOKX2jvECraLjgF1p8m8gfezEsslNKtwJd_5YFN9lUMlVGNUo0V0lNS1gwQ1hQOFc0NjFKT1Q5Uy4u&Analysis=true) [Office Forms](https://forms.office.com) EastGroup Properties Access Request Form Hi, Micah Rumbaugh. You received one new response from Anonymous Submitter. [View](https://forms.office.com/Pages/DesignPage.aspx#FormId=wBBOKX2jvECraLjgF1p8m8gfezEsslNKtwJd_5YFN9lUMlVGNUo0V0lNS1gwQ1hQOFc0NjFKT1Q5Uy4u&Analysis=true) the results of your form. [Microsoft] Microsoft Corporation One Microsoft Way Redmond, WA 98052 USA You are receiving this email because you have subscribed to Microsoft Office 365. Copyright 2017 Microsoft Corporation. Privacy Statement",,11/27/2023 7:42,Brian Laird,,The K1000 Service Desk,Average
+56,Yardi Settings,Judy Joye,Melissa Romig,Software,,"A few weeks ago, my default setting on the window size changed and I cannot figure out how to get it back to normal when it opens. Have to resize every time to see. Help! [cid:image001.jpg@01CE02E6.22333D00] Thank you, EASTGROUP PROPERTIES Judy H. Scruggs Senior Property Manager 11440 Carmel Commons Blvd., Suite 209 Charlotte, NC 28226 (704) 625-4030 x1| phone (704) 408-0111 | cell (704) 542-5560 | fax judy.scruggs@eastgroup.net | email Are you talking about when you export the invoice in Payscan to PDF? Judy - I spoke with Brian and he said that there is nothing to do to get that to open back exactly the way it was setup before. Not sure what cause it to change but no ""button"" to Save the viewing settings. Machine ""CHA-W7-JS2"" was deleted. No. Just when I open an invoice to code it in PAY. Not sure why the windows changed sizes. Thank you, EASTGROUP PROPERTIES Judy H. Scruggs Senior Property Manager 11440 Carmel Commons Blvd., Suite 209 Charlotte, NC  28226 (704) 625-4030 x1| phone (704) 408-0111 | cell (704) 542-5560 | fax judy.scruggs@eastgroup.net | email -----Original Message----- From: IT Sent: Monday, February 04, 2013 3:44 PM To: Judy Scruggs Subject: [TICK:0056] Yardi Settings ----- Change by Melissa Romig at 02/04/2013 14:42:02 ----- Are you talking about when you export the invoice in Payscan to PDF?",,"A few weeks ago, my default setting on the window size changed and I cannot figure out how to get it back to normal when it opens. Have to resize every time to see. Help! [cid:image001.jpg@01CE02E6.22333D00] Thank you, EASTGROUP PROPERTIES Judy H. Scruggs Senior Property Manager 11440 Carmel Commons Blvd., Suite 209 Charlotte, NC 28226 (704) 625-4030 x1| phone (704) 408-0111 | cell (704) 542-5560 | fax judy.scruggs@eastgroup.net | email",02-04-2013 13:44,02-04-2013 16:17,,,The K1000 Service Desk,Bad
+62,Sorry - locked myself out of Yardi,Kim Thomas,Melissa Romig,Software,,"Kim Webb, RPA, RBM
+Property Manager
+EastGroup Properties, LP
+210.491.4100 Phone
+210.491.4106 Fax
+210.454.1423 Cell
+[cid:image002.jpg@01CE0450.2A5C4D30]
+P Please consider the environment before printing this email
+Kim - I have unlocked you.
+Machine """" was deleted.",,"Kim Webb, RPA, RBM
+Property Manager
+EastGroup Properties, LP
+210.491.4100 Phone
+210.491.4106 Fax
+210.454.1423 Cell
+[cid:image002.jpg@01CE0450.2A5C4D30]
+P Please consider the environment before printing this email",02-06-2013 09:56,02-06-2013 10:15,,,The K1000 Service Desk,Bad
+70,FW: Lost Invoice,,,Software,approved,"From: Rebecca Zacok Sent: Monday, February 11, 2013 1:24 PM To: Brian Laird Subject: Lost Invoice Brian, It looks like I have a lost invoice in my box Invoice #034518 which I cannot access to send back to invoice creation from within my box. Thanks! Rebecca Radd Zacok Marketing and Property Management Administrator EastGroup Properties (NYSE: EGP) 7004 Benjamin Road, Suite 100 Tampa, FL 33634 Office: (813) 249-6105 ext.7 Fax: (813) 887-5766 [cid:image001.png@01CE0863.6EBC45E0] [cid:image002.png@01CE0863.6EBC45E0]  [cid:image003.png@01CE0863.6EBC45E0]  Machine ""JAN-W7-BL"" was deleted. Moved invoice back to Invoice Creator and alerted Emily to re-route to Los Angeles asst pm. User ""Brian Laird"" was deleted. User ""Bruce Corkern"" was deleted.",,"From: Rebecca Zacok Sent: Monday, February 11, 2013 1:24 PM To: Brian Laird Subject: Lost Invoice Brian, It looks like I have a lost invoice in my box Invoice #034518 which I cannot access to send back to invoice creation from within my box. Thanks! Rebecca Radd Zacok Marketing and Property Management Administrator EastGroup Properties (NYSE: EGP) 7004 Benjamin Road, Suite 100 Tampa, FL 33634 Office: (813) 249-6105 ext.7 Fax: (813) 887-5766 [cid:image001.png@01CE0863.6EBC45E0] [cid:image002.png@01CE0863.6EBC45E0]  [cid:image003.png@01CE0863.6EBC45E0]",02-11-2013 13:45,2/18/2013 9:47,,,The K1000 Service Desk,Bad
+17377,Reactivate Vendor,Wendi Joyner,Benjamin Garrett,Yardi::Vendor Reactivation,approved,"Please make Nichols Neal (jnnicnea) an active vendor again.
+Thanks -
+Wendi Joyner
+Corporate Administrator
+EastGroup Properties
+400 W Parkway Place Ste 100
+Ridgeland, MS 39157
+O: 601.354.3555 | F: 601.360.1261
+[www.eastgroup.net](http://www.eastgroup.net/)
+Thank you!
+Cristin Branyon
+O: 404-301-2670
+M: 404-394-8107
+From: Wendi Joyner <Wendi.Joyner@eastgroup.net>
+Sent: Tuesday, January 16, 2024 1:39 PM
+To: IT <it@eastgroup.net>
+Cc: Cristin Branyon <cristin.branyon@eastgroup.net>
+Subject: Reactivate Vendor
+Please make Nichols Neal (jnnicnea) an active vendor again.
+Thanks -
+Wendi Joyner
+Corporate Administrator
+EastGroup Properties
+400 W Parkway Place Ste 100
+Ridgeland, MS 39157
+O: 601.354.3555 | F: 601.360.1261
+[www.eastgroup.net](http://www.eastgroup.net/)
+Device ""RDG-W10-WJ"" was deleted. Restated vendor workflow for jnnicnea
+[screenshot_7rdylnnkr.png.e3477d78f050287d0f56c76ba5dd02a5]
+We have closed the following ticket because we believe this case has been resolved. Any responses to this email will not reopen your ticket. Please contact it@eastgroup.net to create a new ticket. Thank you for contacting EastGroup Properties IT!","Restated vendor workflow for jnnicnea
+Closed Email Sent","Please make Nichols Neal (jnnicnea) an active vendor again.
+Thanks -
+Wendi Joyner
+Corporate Administrator
+EastGroup Properties
+400 W Parkway Place Ste 100
+Ridgeland, MS 39157
+O: 601.354.3555 | F: 601.360.1261
+[www.eastgroup.net](http://www.eastgroup.net/)",,1/16/2024 12:50,Brian Laird,"cristin.branyon@eastgroup.net, wendi.joyner@eastgroup.net",The K1000 Service Desk,Bad
+72,Outlook,Luci Smith,Melissa Romig,Software,,"I just signed up for CBRE market reports and am waiting on my login email. They have this on their website: ""If you use a spam filter, you may need to contact your IT department or email administrator asking for the following details to be placed on the safe sender and/or white list: Domain: cbremarketing.com IP: 210.193.131.133"" So - can you please see if it's being held up? Luci Smith, RPA, FMA Senior Property Manager EastGroup Properties, LP 2966 Commerce Park Drive, Suite 450 Orlando, FL 32819 P) 407-284-6543 F) 407-284-6545 C) 407-832-1346 [cid:image001.gif@01CE092A.DD7D5CE0] [cid:image002.png@01CE092A.DD7D5CE0]  Luci - there were no emails in the filter from @cbremarketing.com I have gone ahead and placed @cbremarketing.com on the Safe Sender list for your email Spam Filter. Machine ""ORL-W7-LS2"" was deleted.",,"I just signed up for CBRE market reports and am waiting on my login email. They have this on their website: ""If you use a spam filter, you may need to contact your IT department or email administrator asking for the following details to be placed on the safe sender and/or white list: Domain: cbremarketing.com IP: 210.193.131.133"" So - can you please see if it's being held up? Luci Smith, RPA, FMA Senior Property Manager EastGroup Properties, LP 2966 Commerce Park Drive, Suite 450 Orlando, FL 32819 P) 407-284-6543 F) 407-284-6545 C) 407-832-1346 [cid:image001.gif@01CE092A.DD7D5CE0] [cid:image002.png@01CE092A.DD7D5CE0]",02-12-2013 13:11,02-12-2013 13:40,,,The K1000 Service Desk,Bad
+85,Emails,Megan Tucciarelli,Melissa Romig,Software,,"AChampagne@crossmanco.com
+tuccinick@aol.com
+-----Original Message-----
+From: IT
+Sent: Friday, February 15, 2013 3:47 PM
+To: Megan Tucciarelli
+Subject: [TICK:0085] Emails
+----- Change by Melissa Romig at 02/15/2013 14:44:29 -----
+I need to know the email address of the emails you are not receiving so I can see if they are being quarantined in the spam filter.
+I need to know the email address of the emails you are not receiving so I can see if they are being quarantined in the spam filter.
+Machine """" was deleted.
+Megan - neither of those emails are being held on EastGroup's email server.
+That's weird.
+Thank you for checking.
+-----Original Message-----
+From: IT
+Sent: Friday, February 15, 2013 4:06 PM
+To: Megan Tucciarelli
+Subject: [TICK:0085] Emails
+----- Change by Melissa Romig at 02/15/2013 15:03:56 -----
+Megan - neither of those emails are being held on EastGroup's email server.
+There seem to be some emails stuck in cyberspace that aren't making it through to my inbox.   I can see where a person copied me on an email, via another person's reply, but I didn't get the original email
+Thanks.
+Megan B. Tucciarelli
+Assistant Property Manager
+EastGroup Properties
+2966 Commerce Park Drive, Suite 450
+Orlando, FL 32819
+Office: (407) 284-6539
+Cell:      (321) 439-3885
+Fax:      (407) 284-6545",,"There seem to be some emails stuck in cyberspace that aren't making it through to my inbox.   I can see where a person copied me on an email, via another person's reply, but I didn't get the original email
+Thanks.
+Megan B. Tucciarelli
+Assistant Property Manager
+EastGroup Properties
+2966 Commerce Park Drive, Suite 450
+Orlando, FL 32819
+Office: (407) 284-6539
+Cell:      (321) 439-3885
+Fax:      (407) 284-6545",2/15/2013 14:41,2/15/2013 15:20,,,The K1000 Service Desk,Bad
+99,scanner,CHA Temp,Melissa Romig,Software,,"Ashley-Beth, sorry about that. The email address has been corrected to CHA.temp@eastgroup.net on the scanner/copier. Machine """" was deleted. My email address is set up wrong in our copier/scanner machine. Could you please update the info to cha.temp@eastgroup.net? T Thanks so much! EASTGROUP PROPERTIES Ashley-Beth Holmes 11440 Carmel Commons Blvd., Suite 209 Charlotte, NC 28226 (704) 625-4030 x3| phone (704) 542-5560 | fax CHA.temp@eastgroup.net | email",,"My email address is set up wrong in our copier/scanner machine. Could you please update the info to cha.temp@eastgroup.net? T Thanks so much! EASTGROUP PROPERTIES Ashley-Beth Holmes 11440 Carmel Commons Blvd., Suite 209 Charlotte, NC 28226 (704) 625-4030 x3| phone (704) 542-5560 | fax CHA.temp@eastgroup.net | email",2/22/2013 10:10,2/22/2013 10:19,,,The K1000 Service Desk,Bad
+138,Out of office,Heather Bryant,Melissa Romig,Software,,"Good afternoon,
+Please forward all my invoices to Kim next week.  I will be out of the office 3/11-3/15.
+Thank you,
+Heather A. Bryant
+Property Assistant
+EastGroup Properties, LP
+210.491.4100 Phone
+210.491.4106 Fax
+210.264.2667 Cell
+[cid:image001.jpg@01CE1C0A.56E2FC10]
+Heather - this has been completed.
+Machine ""SAN-W7-HM2"" was deleted.
+Thank you!
+-----Original Message-----
+From: IT
+Sent: Friday, March 08, 2013 2:46 PM
+To: Heather Malec
+Subject: [TICK:0138] Out of office
+----- Change by Melissa Romig at 03/08/2013 14:43:56 -----
+Heather - this has been completed.
+----- Change by Melissa Romig at 03/08/2013 14:44:00 -----
+Changed ticket Status from ""Opened"" to ""Closed"".
+Melissa Romig (Melissa.Romig@eastgroup.net) on Mar 08 2013 02:44:00 PM
+Changes:
+Changed ticket Status from ""Opened"" to ""Closed"".
+Melissa Romig (Melissa.Romig@eastgroup.net) on Mar 08 2013 02:43:56 PM
+Comment:
+Heather - this has been completed.
+Melissa Romig (Melissa.Romig@eastgroup.net) on Mar 08 2013 02:40:38 PM
+Changes:
+Changed ticket Owner from ""IT Staff"" to ""Melissa Romig"".
+Heather Malec (Heather.Malec@eastgroup.net) on Mar 08 2013 02:36:35 PM (via
+email)
+Changes:
+Ticket Created
+Added attachment ""image001.jpg""
+Comment:
+Good afternoon,
+Please forward all my invoices to Kim next week.  I
+will be out of the office 3/11-3/15.
+Thank you,
+Heather A. Bryant
+Property Assistant
+EastGroup Properties, LP
+210.491.4100 Phone
+210.491.4106 Fax
+210.264.2667 Cell
+[cid:image001.jpg@01CE1C0A.56E2FC10]
+Attachment: image001.jpg (6.05 KB)
+http://k1000/packages/hd_attachments/581/image001.jpg
+This closed ticket was updated by a non-owner.  Changing status to ""Reopened.""
+Note: If you were trying to close this case: You MUST take ownership to close a case.",Reopened,"Good afternoon,
+Please forward all my invoices to Kim next week.  I will be out of the office 3/11-3/15.
+Thank you,
+Heather A. Bryant
+Property Assistant
+EastGroup Properties, LP
+210.491.4100 Phone
+210.491.4106 Fax
+210.264.2667 Cell
+[cid:image001.jpg@01CE1C0A.56E2FC10]",03-08-2013 14:50,03-08-2013 14:52,,,The K1000 Service Desk,Bad
+171,Printing,Troy King,Melissa Romig,Software,,"Issue: I tried to print a FedEx label, and could not. There was a message that read that a driver was not installed!
+Machine """" was deleted.
+Removed old printer with !, rebooted and it printed from Fed Ex page.",,"Issue: I tried to print a FedEx label, and could not. There was a message that read that a driver was not installed!",3/20/2013 14:49,3/20/2013 16:23,,,The K1000 Service Desk,Bad
+181,1099 MISC file for IRS,Kathleen Watters,,Software,,"1099 file created and modified per changes from Kathleen Watters. File submitted to the IRS.
+Machine ""JAN-W7-KW3"" was deleted.
+Please create and submit the 1099 MISC file for 2012 to the IRS.  See me first for the adjustments needed.  Thanks.  Kathleen
+User ""Brian Laird"" was deleted.",,Please create and submit the 1099 MISC file for 2012 to the IRS.  See me first for the adjustments needed.  Thanks.  Kathleen,3/21/2013 14:07,3/21/2013 14:20,,,The K1000 Service Desk,Bad
+192,Frontdesk,Troy King,Melissa Romig,Software,,"Machine """" was deleted.
+No.
+-----Original Message-----
+From: IT
+Sent: Monday, March 25, 2013 1:17 PM
+To: Troy King
+Subject: [TICK:0192] Frontdesk
+----- Change by Melissa Romig at 03/25/2013 13:15:07 -----
+Troy - has your computer shutdown today?
+Melissa Romig (Melissa.Romig@eastgroup.net) on Mar 25 2013 01:15:07 PM
+Comment:
+Troy - has your computer shutdown today?
+Melissa Romig (Melissa.Romig@eastgroup.net) on Mar 25 2013 01:14:52 PM
+Changes:
+Changed ticket Owner from ""IT Staff"" to ""Melissa Romig"".
+Troy King (Troy.King@eastgroup.net) on Mar 22 2013 03:41:03 PM (via email)
+Changes:
+Ticket Created
+Added attachment ""image001.jpg""
+Comment:
+The front desk computer shut down again!
+Thanks!
+Troy  Lynn
+[cid:image001.jpg@01CE2713.AAE6D700]
+Troy King, Receptionist
+190 E Capitol; Suite 400
+Jackson, MS  39201
+601-354-3555
+troy.king@eastgroup.net
+Attachment: image001.jpg (3.22 KB)
+http://k1000/packages/hd_attachments/834/image001.jpg
+The front desk computer shut down again!
+Thanks!
+Troy  Lynn
+[cid:image001.jpg@01CE2713.AAE6D700]
+Troy King, Receptionist
+190 E Capitol; Suite 400
+Jackson, MS  39201
+601-354-3555
+troy.king@eastgroup.net
+Troy - has your computer shutdown today?",,"The front desk computer shut down again!
+Thanks!
+Troy  Lynn
+[cid:image001.jpg@01CE2713.AAE6D700]
+Troy King, Receptionist
+190 E Capitol; Suite 400
+Jackson, MS  39201
+601-354-3555
+troy.king@eastgroup.net",3/22/2013 15:41,3/25/2013 15:27,,,The K1000 Service Desk,Bad
+203,FW: test,Steig Erickson,,Software,,"Machine ""HOU-W7-SE2"" was deleted.
+Melissa / Brian - something is going on with my email.
+I was talking to a couple of people who said they would email me something (I get emails from them all the time) and their emails have not come through yet.  It has been about 2 hours since they said they would send the email and I confirmed the emails they were sending had very small files attached (300KB).
+To test my email I tried sending myself an email about 30 minutes ago and it just came through below (a test email from Yahoo takes 40 minutes to come through?).
+Can you confirm that everything is working correctly?
+Thanks,
+Steig
+From: S Erickson [mailto:serickson1201@yahoo.com]
+Sent: Monday, March 25, 2013 3:53 PM
+To: Steig Erickson
+Subject: test
+test
+Rebooted Exchange server and emails are coming in slowly now.
+User ""Brian Laird"" was deleted.",,"Melissa / Brian - something is going on with my email.
+I was talking to a couple of people who said they would email me something (I get emails from them all the time) and their emails have not come through yet.  It has been about 2 hours since they said they would send the email and I confirmed the emails they were sending had very small files attached (300KB).
+To test my email I tried sending myself an email about 30 minutes ago and it just came through below (a test email from Yahoo takes 40 minutes to come through?).
+Can you confirm that everything is working correctly?
+Thanks,
+Steig
+From: S Erickson [mailto:serickson1201@yahoo.com]
+Sent: Monday, March 25, 2013 3:53 PM
+To: Steig Erickson
+Subject: test
+test",3/25/2013 16:33,3/26/2013 16:13,,,The K1000 Service Desk,Bad
+220,Sent from Snipping Tool,Angela Christiansen,Melissa Romig,Software,,"Had user restart, unlocked account and log back in. Connected now.
+Machine """" was deleted.
+[cid:image001.png@01CE2EE6.A7D7B310]",,[cid:image001.png@01CE2EE6.A7D7B310],04-01-2013 14:51,04-01-2013 14:54,,,The K1000 Service Desk,Bad
